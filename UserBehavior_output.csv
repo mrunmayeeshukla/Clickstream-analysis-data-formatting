@@ -1,0 +1,14 @@
+,Duration,NextSessionStartsIn,bvproduct,dt,productid
+A_1,6.0,{},"{'RatingsAndReviews': 3, 'AskAndAnswer': 4}","{'starttime': '02/06/15 13:02', 'endtime': '2/6/15 13:08'}","{1529425: 2, 2785165: 4}"
+B_1,2.0,{},"{'RatingsAndReviews': 2, 'AskAndAnswer': 4}","{'starttime': '03/27/15 14:11', 'endtime': '3/27/15 14:13'}","{1529425: 2, 2785165: 2}"
+C_1,16.0,{},"{'RatingsAndReviews': 8, 'AskAndAnswer': 12}","{'starttime': '03/08/15 13:56', 'endtime': '3/8/15 14:12'}","{1529425: 2, 1289727: 2, 2785165: 10, 1384677: 2}"
+D_1,42.0,{},"{'RatingsAndReviews': 3, 'AskAndAnswer': 18}","{'starttime': '02/01/15 22:46', 'endtime': '02/01/15 23:28'}","{1529425: 4, 2785165: 2}"
+E_1,15.0,{},"{'RatingsAndReviews': 4, 'AskAndAnswer': 8}","{'starttime': '02/12/15 12:22', 'endtime': '2/12/15 12:37'}","{7020265: 2, 7020100: 6}"
+F_1,10.0,{},"{'RatingsAndReviews': 2, 'AskAndAnswer': 5}","{'starttime': '03/10/15 18:40', 'endtime': '3/10/15 18:50'}","{1529425: 2, 2785165: 2}"
+G_1,11.0,{},"{'RatingsAndReviews': 10, 'AskAndAnswer': 16}","{'starttime': '03/26/15 17:51', 'endtime': '3/26/15 18:02'}","{1529425: 6, 2785165: 8, 7020117: 2, 1292367: 4}"
+H_1,3.0,{},"{'RatingsAndReviews': 3, 'AskAndAnswer': 3}","{'starttime': '02/15/15 15:20', 'endtime': '2/15/15 15:23'}","{1529425: 4, 7020090: 2}"
+I_1,9.0,44.0,"{'RatingsAndReviews': 3, 'AskAndAnswer': 7}","{'starttime': '02/08/15 11:22', 'endtime': '2/8/15 11:31'}","{1529425: 4, 7020100: 2}"
+I_2,0.0,106.0,"{'RatingsAndReviews': 0, 'AskAndAnswer': 1}","{'starttime': '02/08/15 12:15', 'endtime': '2/8/15 12:15'}",{1529425: 1}
+I_3,0.0,56.0,"{'RatingsAndReviews': 0, 'AskAndAnswer': 1}","{'starttime': '02/08/15 14:01', 'endtime': '2/8/15 14:01'}",{1529425: 1}
+I_4,0.0,60.0,"{'RatingsAndReviews': 0, 'AskAndAnswer': 1}","{'starttime': '02/08/15 14:57', 'endtime': '2/8/15 14:57'}",{1529425: 1}
+I_5,0,{},"{'RatingsAndReviews': 0, 'AskAndAnswer': 1}","{'starttime': '02/08/15 14:57', 'endtime': '02/08/15 15:57'}",{1529425: 1}
